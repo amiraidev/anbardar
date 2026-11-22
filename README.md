@@ -6,7 +6,7 @@
 <div dir="rtl">
 
 <div align="center">
-  <img src="assets/brand-logo.png" width="150" alt="لوگوی آبی انباردار">
+  <img src="/docs/images/logo.png" width="150" alt="لوگوی آبی انباردار">
   <h1>انباردار | Anbardar</h1>
   <p><strong>انبارداری ساده و دقیق</strong></p>
   <p>مدیریت موجودی، ورود و خروج کالا و گزارش انبار، روی گوشی</p>
